@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+h1{
+	color: aqua;
+	align: center;
+}
+
+<img class="img1" src="Itsukushima.jpg" alt="Itsukushima">
+
+img1 {
+	width: 600px;
+	height: 500px;
+	margin-right: 500px;
+	border: 5px solid;
+	border-color: red;
+}
+
+
+
+body{
+	color:#117014;
+	background-color: #D4BC16;
+	text-align: center;
+}
